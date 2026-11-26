@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://juan-ramirez.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Fullstack+Developer+%F0%9F%9A%80;Angular+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;Building+SaaS%2C+web+%26+mobile+apps;Integrating+AI+into+real+products+%F0%9F%A4%96;Open+to+remote+opportunities+%F0%9F%8C%8E" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Fullstack+Developer+%F0%9F%9A%80;Angular+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;Building+SaaS%2C+web+%26+mobile+apps;Integrating+AI+into+real+products+%F0%9F%A4%96;Available+now+for+remote+opportunities+%F0%9F%8C%8E" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://juan-ramirez.dev"><img src="https://img.shields.io/badge/Portfolio-juan--ramirez.dev-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/juan-ramirez9b247b216"><img src="https://img.shields.io/badge/LinkedIn-Juan%20Ramirez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/juanramirez-dev"><img src="https://img.shields.io/badge/LinkedIn-Juan%20Ramirez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:juanramirez8034@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -27,20 +27,20 @@ I'm a **Fullstack Developer** from 🇻🇪 Zulia, Venezuela, with **4+ years** 
 
 - 🏫 Built university management systems used by **thousands of students and staff**
 - 💼 Shipped **B2B SaaS products** for the Latin American and European markets
-- 🤖 Integrating **AI features** (chatbots, smart workflows) into real-world apps
-- 🛍️ Currently building **Shopify plugins, workers and Next.js apps** at [Iberpixel](https://iberpixel.com) (Madrid, Spain · Remote)
+- 🤖 Integrating **AI features** (chatbots, smart workflows) into real-world apps, and using AI agents daily to ship faster without losing quality
+- 🛍️ Most recently built **Shopify plugins, workers and Next.js apps** at Iberpixel (Madrid, Spain · Remote)
 - 🎨 I also prototype interfaces in **Figma** before writing a single line of code
-- 🌎 Open to **remote roles** on fast-paced teams
+- 🌎 **Available now** for remote roles on fast-paced teams
 
 ```ts
 const juan = {
   role: "Fullstack Developer",
   location: "Zulia, Venezuela · Remote",
   frontend: ["Angular", "React", "Next.js", "TypeScript", "Tailwind CSS", "RxJS"],
-  backend: ["Node.js", "Express", "NestJS", "REST APIs", "Microservices"],
+  backend: ["Node.js", "Express", "NestJS", "Laravel", "REST APIs", "Microservices"],
   mobile: ["React Native", "PWA"],
   databases: ["MongoDB", "PostgreSQL"],
-  currentlyLearning: ["TanStack Query", "Design Patterns"],
+  currentlyLearning: ["NestJS", "TanStack Query", "Design Patterns"],
   funFact: "I turn coffee and Figma mockups into production code ☕",
 };
 ```
@@ -73,7 +73,7 @@ const juan = {
 
 | Role | Company | Period |
 |------|---------|--------|
-| **Fullstack Developer** | Iberpixel · Madrid, Spain 🇪🇸 (Remote) | Oct 2025 – Present |
+| **Fullstack Developer** | Iberpixel · Madrid, Spain 🇪🇸 (Remote) | Oct 2025 – Nov 2026 |
 | **Fullstack Developer** | Digevo Ventures · Santiago, Chile 🇨🇱 (Remote) | Feb 2025 – Jun 2025 |
 | **Software Development Engineer** | Servieduca (URBE) · Maracaibo, Venezuela 🇻🇪 | Sep 2022 – Feb 2025 |
 
@@ -121,7 +121,7 @@ const juan = {
 
 <p align="center">
   <a href="https://juan-ramirez.dev"><img src="https://img.shields.io/badge/juan--ramirez.dev-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/juan-ramirez9b247b216"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/juanramirez-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:juanramirez8034@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
